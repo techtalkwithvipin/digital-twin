@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "my name is pihu"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, Pihu! Nice to meet you. I am Vipin Gupta. I am an enterprise-focused Solution Architect with over 17 years of experience in software engineering and cloud-native design, specializing in .NET Core/8+, C#, Angular, and Event-Driven Architectures. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Pihu, nice to meet you!"
+  }
+]
